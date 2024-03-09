@@ -1,0 +1,6 @@
+
+
+POST http://localhost:3000/register/
+
+
+GET http://localhost:3000/tweets/3/
